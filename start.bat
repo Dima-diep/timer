@@ -1,4 +1,4 @@
 @echo off
-H:\timer\timer.exe
+C:\timer\timer.exe
 cls
-H:\timer\end.vbs
+C:\timer\end.vbs
