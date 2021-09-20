@@ -1,6 +1,6 @@
 import time
 
-print("Write time:")
+print("Write time in sec:")
 a = int(input())
 
 for i in range(0, a):
